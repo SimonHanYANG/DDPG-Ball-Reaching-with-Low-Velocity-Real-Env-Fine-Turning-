@@ -1,0 +1,8 @@
+checkpoints_real/
+logs_real/
+result_videoes/
+pre-trained-sim-pth/
+# yolo weight
+weights/
+# stage phidget22
+Phidget22Manager.exe - 快捷方式.lnk
